@@ -1,0 +1,348 @@
+.upperSection {
+  background-color: #5E88FC;
+  padding-top: 15px;
+}
+
+.entireHeader {
+  background-color: #5E88FC;
+  display: flex;
+  justify-content: space-around;
+}
+
+.logoImage {
+  background-color: #5E88FC; 
+  width: 70%;
+}
+
+.headerNav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.menuList {
+  color: white;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  width: 60vw;
+}
+
+.headerBtn {
+  display: flex;
+  align-items: center;
+}
+
+.signupButton {
+  color: white;
+  background-color: #5E88FC;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.signupButton:hover {
+  color: #5E88FC;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.bannerDownload1 {
+  color: #5E88FC;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 15px;
+  padding: 15px;
+  margin-right: 15px;
+}
+
+.bannerDownload:hover {
+  background-color: #5E88FC;
+  color: white;
+  border: 1px solid white;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.upperBanner {
+  max-width: 60%;
+  margin: auto;
+  padding: 50px 0 50px 0;
+}
+
+.bannerHeading {
+  color: white;
+  font-size: 50px;
+}
+
+.bannerDesc {
+  color: white;
+}
+
+.bannerDownload {
+  color: #5E88FC;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.aboutDiv {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 100px 50px 100px;
+}
+
+.aboutSection {
+  padding-top: 50px;
+}
+
+.aboutHeading {
+  color: #8790AF;
+}
+
+.aboutDesc1 {
+  color: #5E88FC;
+  font-size: 32px;
+  text-align: center;
+}
+
+.aboutDesc2 {
+  color: #8790AF;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.imageBannerDiv {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+.headingBannerDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.videoImage {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.videoFeaturesTag {
+  color: #8790AF;
+  font-weight: 600;
+}
+
+.bestFeaturesTag {
+  font-size: 32px;
+}
+
+.featuresDesc {
+  color: #8790AF;
+}
+
+.learnMore {
+  color: white;
+  background-color: #5E88FC;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 20px 40px 20px 40px;
+}
+
+.featuresBody {
+  background-color: #5E88FC;
+  padding: 35px 0 35px 0;
+}
+
+.featuresOne {
+  display: flex;
+  justify-content: center;
+}
+
+.featuresTextOne {
+  color: white;
+  text-align: center;
+}
+
+.featuresTextTwo {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+}
+
+.card {
+  background-color: #5E88FC;
+  color: white;
+  border: none;
+}
+
+.cardContainers {
+  display: flex;
+  justify-content: center;
+}
+
+.cardImages {
+  width: 20%;
+}
+
+.testimonials {
+  padding-top: 35px;
+}
+
+.testimonialsOne {
+  display: flex;
+  justify-content: center;
+}
+
+.testimonialsTextOne {
+  color: #8790AF;
+  text-align: center;
+}
+
+.testimonialsTextTwo {
+  color: black;
+  text-align: center;
+  font-size: 24px;
+  padding-bottom: 35px;
+}
+
+.w-100 {
+  width: 30%!important;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.download {
+  padding: 50px 0 100px 0;
+  background-color: #5E88FC;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.downloadText {
+  width: 80%;
+}
+
+.downloadTextOne, .downloadTextTwo {
+  padding-bottom: 25px;
+}
+
+.appleButton {
+  margin-right: 20px;
+  color: #5E88FC;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 20px 40px 20px 40px;
+}
+
+.playButton {
+  color: #5E88FC;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 20px 40px 20px 40px;
+}
+
+.priceBody {
+  background-color: white;
+  padding: 35px 0 35px 0;
+}
+
+.priceOne {
+  display: flex;
+  justify-content: center;
+}
+
+.priceTextOne {
+  color: #8790AF;
+  text-align: center;
+}
+
+.priceTextTwo {
+  color: black;
+  text-align: center;
+  font-size: 24px;
+}
+
+.cardContain {
+  width: 16rem;
+  text-align: center;
+}
+
+.cardOne {
+  display: flex;
+  justify-content: space-around;
+}
+
+.priceTag {
+  color: #5E88FC;
+}
+
+.questionBody {
+  background-color: #F5F6FF;
+  padding: 35px 0 100px 0;
+}
+
+.questionOne {
+  display: flex;
+  justify-content: center;
+}
+
+.questionTextOne {
+  color: #8790AF;
+  text-align: center;
+}
+
+.questionTextTwo {
+  color: black;
+  text-align: center;
+  font-size: 24px;
+}
+
+.contactBody {
+  background-color: white;
+  padding: 35px 0 100px 0;
+}
+
+.contactOne {
+  display: flex;
+  justify-content: center;
+}
+
+.contactTextOne {
+  color: #8790AF;
+  text-align: center;
+}
+
+.contactTextTwo {
+  color: black;
+  text-align: center;
+  font-size: 24px;
+}
+
+.contact {
+  max-width: 100%;
+}
+
+.footer {
+  background-color: #F5F6FF;
+  color: #8790AF;
+  text-align: center;
+}
+
+.navFooter {
+  padding-bottom: 10px;
+}
+
+.footerList {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
